@@ -19,7 +19,7 @@
             All Payments Cancel and Reset to Draft Buttons Security.
             """,
     'depends': [
-        'base','purchase','sale','account','stock'
+        'base','purchase','sale_management','account','stock'
     ],
     'data': [
         'security/security.xml',
