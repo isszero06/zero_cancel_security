@@ -1,4 +1,13 @@
 # -*- coding: utf-8 -*-
+#################################################################################
+# Author      : Zero For Information Systems (<www.erpzero.com>)
+# Copyright(c): 2016-Zero For Information Systems
+# All Rights Reserved.
+#Zerosystems #odoo #erp
+# This program is copyright property of the author mentioned above.
+# You can`t redistribute it and/or modify it.
+#
+#################################################################################
 {
     'name': 'Cancel and Reset to Draft Buttons Control',
     'version': '7.0.1',
@@ -33,5 +42,4 @@
     'application': False,
     'price': 00.0,
     'currency': 'EUR',
-    'pre_init_check_vers': 'pre_init_check_vers',
 }
